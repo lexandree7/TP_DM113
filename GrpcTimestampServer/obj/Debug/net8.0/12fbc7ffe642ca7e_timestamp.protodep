@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/Timestamp.cs \
+obj\Debug\net8.0\Protos/TimestampGrpc.cs: Protos/timestamp.proto

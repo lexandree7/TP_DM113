@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcTimestampServer";
+
+package timestamp;
+
+service TimestampService {
+  rpc SendTimestamp (TimestampRequest) returns (TimestampReply);
+}
+
+message TimestampRequest {
+  string timestamp = 1;
+}
+
+message TimestampReply {
+  string message = 1;
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kQfSlunZ5kqxTMFGDQcIr09mwW2Od9iK+bdm7kaF/nw=",
+  "Source": "GrpcTimestampServer",
+  "BasePath": "_content/GrpcTimestampServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
